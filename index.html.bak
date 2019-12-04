@@ -17,7 +17,11 @@
 
 </style></head>
   <body id="bacj">
-    <h1 style="text-align: center;">Daniel Kiv</h1>
+    <h1 style="text-align: center;"><br>
+    </h1>
+    <h1 style="text-align: center;"><br>
+    </h1>
+    <h1 style="text-align: center;">Daniel R. Kiv</h1>
     <h1 style="text-align: center;"><img src="images/emb.png" title="emb" style="width: 81px; height: 81px;"></h1>
     <p style="text-align: center;">Welcome to my world!</p>
     <p style="text-align: center;"><br>
@@ -26,10 +30,14 @@
     </p>
     <p style="text-align: center;"><br>
     </p>
-    <div style="text-align: center;"><br>
-    </div>
-    <p style="text-align: center;"><br>
-    </p>
+    <p style="text-align: center;"></p>
+    <div itemscope="" itemtype="https://schema.org/Person" style="text-align: center;"><a
+        itemprop="sameAs" content="https://orcid.org/0000-0002-7624-8163" href="https://orcid.org/0000-0002-7624-8163"
+        target="orcid.widget" rel="me noopener noreferrer" style="vertical-align:top;"><img
+          src="https://orcid.org/sites/default/files/images/orcid_16x16.png" style="width:1em;margin-right:.5em;"
+          alt="ORCID iD icon">https://orcid.org/0000-0002-7624-8163</a></div>
+    <br>
+    <p></p>
     <p style="text-align: center;"><br>
     </p>
     <p style="text-align: center;"><br>
@@ -37,7 +45,8 @@
     <p style="text-align: center;">****************************</p>
     <p style="text-align: center;"><br>
     </p>
-    <p style="text-align: center;">home / work</p>
+    <p style="text-align: center;"><a href="index.html" target="_top">home</a> /
+      <a href="work.html" title="about me" target="_top">work</a></p>
     <p style="text-align: center;"><br>
     </p>
     <p style="text-align: center;">****************************</p>
