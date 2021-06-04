@@ -31,8 +31,10 @@
                         Scholar</a>&nbsp; /&nbsp; <a href="https://github.com/danielkiv">Github</a>
                     </p>
                   </td>
-                  <td style="padding:2.5%;width:40%;max-width:40%"> <a href="images/JonBarron.jpg"><img
-                        style="width:100%;max-width:100%" alt="profile photo" src="images/dkpfp.jpg"
+                  <td style="padding:2.5%;width:40%;max-width:40%"> <a href="images/1212.jpg"><img
+
+                        style="width:100%;max-width:100%" alt="profile photo" src="images/1212.png"
+
                         class="hoverZoomLink"></a> </td>
                 </tr>
               </tbody>
@@ -41,14 +43,14 @@
             <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
               <tbody>
                 <tr>
-                  <td style="padding:20px;width:25%;vertical-align:middle"> <img
+                  <td style="padding:20px;width:25%;vertical-align:middle"> <img
+
                       src="images/yang2021.png" alt="BLSN storm" height="160" width="160">
                   </td>
                   <td width="75%" valign="middle"> <a href="https://drive.google.com/file/d/1rc05NatkQVmUDlGCAYcHSrvAzTpU9knT/view?usp=sharing">
-                      <strong><span style="color: #030303;">Study of Antarctic
-                          Blowing Snow Storms Using MODIS and CALIOP
-                          Observations With a Machine Learning Model</span></strong>
-                    </a><br>
+                    </a><strong><span style="color: #030303;">Study of Antarctic
+                        Blowing Snow Storms Using MODIS and CALIOP Observations
+                        With a Machine Learning Model</span></strong> <br>
                     Yuekui Yang, Adam Anderson, <strong>Daniel Kiv</strong>,
                     Justin Germann, Maya Fuchs, Stephen Palm, Tao Wang <br>
                     <em>Earth and Space Science</em>, 2021 <br>
@@ -56,15 +58,17 @@
                   </td>
                 </tr>
                 <tr>
-                  <td style="padding:20px;width:25%;vertical-align:middle"> <img
-                      src="images/wijeratne2020.png" alt="calibration airbourne"
+                  <td style="padding:20px;width:25%;vertical-align:middle"> <img
+
+                      src="images/wijeratne2020.png" alt="calibration airbourne"
+
                       height="160" width="160"> </td>
                   <td width="75%" valign="middle"> <a href="https://drive.google.com/file/d/13rVuJpcytRdLYCnKpq46g7B7IzSrPQ2P/view?usp=sharing">
-                    </a><strong><a data-href="/citations?view_op=view_citation&amp;hl=en&amp;user=uI_sQzgAAAAJ&amp;citation_for_view=uI_sQzgAAAAJ:u5HHmVD_uO8C"
+                    </a><strong><a data-href="/citations?view_op=view_citation&amp;hl=en&amp;user=uI_sQzgAAAAJ&amp;citation_for_view=uI_sQzgAAAAJ:u5HHmVD_uO8C"
+
                         class="gsc_a_at" style="color: #020202;">Using Machine
                         Learning for the Calibration of Airborne Particulate
-                        Sensors</a></strong><a href="https://drive.google.com/file/d/13rVuJpcytRdLYCnKpq46g7B7IzSrPQ2P/view?usp=sharing">
-                    </a><br>
+                        Sensors</a></strong> <br>
                     Lakitha Wijeratne, <strong>Daniel Kiv</strong>, Adam Aker,
                     Shawhin Talebi, David Lary <br>
                     <em>Sensors</em>, 2020<br>
