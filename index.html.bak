@@ -31,11 +31,11 @@
                         Scholar</a>&nbsp; /&nbsp; <a href="https://github.com/danielkiv">Github</a>
                     </p>
                   </td>
-                  <td style="padding:2.5%;width:40%;max-width:40%"> <a href="images/1212.jpg"><img
+                  <td style="padding:2.5%;width:40%;max-width:40%"> <img
 
-                        style="width:100%;max-width:100%" alt="profile photo" src="images/1212.png"
+                      style="width:100%;max-width:100%" alt="profile photo" src="images/1212.png"
 
-                        class="hoverZoomLink"></a> </td>
+                      class="hoverZoomLink"> </td>
                 </tr>
               </tbody>
             </table>
