@@ -19,9 +19,9 @@
                   <td style="padding:2.5%;width:63%;vertical-align:middle">
                     <p style="text-align:center"> <name>Daniel R. Kiv</name> </p>
                     <p>I am a second-year PhD student in Computer Science at the
-                      University of Illinois at Urbana-Champaign advised by <a
-                        href="https://arindam.cs.illinois.edu/">Arindam Banerjee</a>.
-                      I am working with <a href="https://science.gsfc.nasa.gov/sed/bio/yuekui.yang-1">Yuekui
+                      University of Illinois at Urbana-Champaign advised by
+                      Prof. <a href="https://arindam.cs.illinois.edu/">Arindam
+                        Banerjee</a>. I also work with Dr. <a href="https://science.gsfc.nasa.gov/sed/bio/yuekui.yang-1">Yuekui
                         Yang</a> at the <a href="https://science.gsfc.nasa.gov/earth/climate/">Climate
                         and Radiation Laboratory</a>, NASA Goddard Space Flight
                       Center.</p>
@@ -44,6 +44,28 @@
             <br>
             <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
               <tbody>
+                <tr>
+                  <td><br>
+                  </td>
+                  <td><br>
+                  </td>
+                </tr>
+                <tr>
+                  <td><br>
+                  </td>
+                  <td><strong>Machine Learning, Big Data and Spatial tools: A
+                      Combination to Reveal Complex Facts That Impact
+                      Environmental Health<br>
+                    </strong>David J. Lary, Lakitha OH Wijerante, Gebreab K.
+                    Zewdie, <strong>Daniel Kiv</strong>, Daji Wu, Fazlay
+                    Faruque, Shawhin Talebi, Estelle Levetin, Yu Xiaohe, Yichao
+                    Zhang, Rebecca J. Allee, Nabin Malakar, Annette Walker,
+                    Hamse Mussa<br>
+                    <em>Geospatial Technology for Human Well-being and Health</em>,
+                    Springer International Publishing, 2021<br>
+                    [<a href="https://www.springer.com/gp/book/9783030713768">book
+                      chapter</a>]</td>
+                </tr>
                 <tr>
                   <td style="padding:20px;width:25%;vertical-align:middle"> <img
                       src="images/yang2021.png" alt="BLSN storm" height="160" width="160">
