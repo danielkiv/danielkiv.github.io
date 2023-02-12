@@ -37,8 +37,7 @@
                         scholar </a>/ <a href="https://orcid.org/0000-0002-7624-8163">orcid</a>
                     </p>
                   </td>
-                  <td style="padding:2.5%;width:40%;max-width:40%"> <img style="width:100%;max-width:100%"
-
+                  <td style="padding:2.5%;width:40%;max-width:40%"> <img style="width:100%;max-width:100%"
                       alt="profile photo" src="images/1212.png" class="hoverZoomLink">
                   </td>
                 </tr>
@@ -99,21 +98,29 @@
                   </td>
                 </tr>
                 <tr>
+                  <td style="text-align: center;"><img src="images/smol.png" alt="smol"
+                      style="width: 107px; height: 107px;"></td>
+                  <td><br>
+                    <strong>smol: Sensing Soil Moisture using LoRa<br>
+                      Daniel Kiv</strong>*, Garvita Allabadi*, Berkay Kaplan,
+                    Robin Kravets<br>
+                    1st ACM Workshop on No Power and Low Power
+                    Internet-of-Things, 2021<br>
+                  </td>
+                </tr>
+                <tr>
                   <td style="padding: 20px; width: 25%; vertical-align: middle; text-align: center; height: 100px;">
-                    <img src="images/wijeratne2020.png" alt="calibration airbourne"
-
+                    <img src="images/wijeratne2020.png" alt="calibration airbourne"
                       style="width: 100px; height: 100px;"> </td>
                   <td style="height: 100px;" width="75%" valign="middle"> <a href="https://drive.google.com/file/d/13rVuJpcytRdLYCnKpq46g7B7IzSrPQ2P/view?usp=sharing">
-                    </a><strong><a data-href="/citations?view_op=view_citation&amp;hl=en&amp;user=uI_sQzgAAAAJ&amp;citation_for_view=uI_sQzgAAAAJ:u5HHmVD_uO8C"
-
+                    </a><strong><a data-href="/citations?view_op=view_citation&amp;hl=en&amp;user=uI_sQzgAAAAJ&amp;citation_for_view=uI_sQzgAAAAJ:u5HHmVD_uO8C"
                         class="gsc_a_at" style="color: #020202;"><br>
                         Using Machine Learning for the Calibration of Airborne
                         Particulate Sensors</a></strong> <br>
                     Lakitha Wijeratne, <strong>Daniel Kiv</strong>, Adam Aker,
                     Shawhin Talebi, David Lary <br>
                     <em>Sensors</em>, 2020<br>
-                    [<a href="https://www.mdpi.com/1424-8220/20/1/99/pdf">paper</a>][<a
-
+                    [<a href="https://www.mdpi.com/1424-8220/20/1/99/pdf">paper</a>][<a
                       href="https://p3.scgcorp.com/projects/machine-learning-calibrated-low-cost-sensing">EPA
                       P3 expo</a>][<a href="https://cfpub.epa.gov/ncer_abstracts/index.cfm/fuseaction/display.abstractDetail/abstract_id/11013/report/0#content">EPA
                       abstract</a>]<br>
@@ -138,6 +145,5 @@
         </tr>
       </tbody>
     </table>
-    
   </body>
 </html>
