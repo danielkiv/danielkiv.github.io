@@ -47,18 +47,19 @@
             <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
               <tbody>
                 <tr>
-                  <td style="text-align: center;">abstract</td>
+                  <td style="text-align: center;">PAPER</td>
                   <td><strong><br>
                       Diagnosis of Antarctic Blowing Snow with MERRA-2
                       Reanalysis</strong><br>
-                    Yuekui Yang, <strong>Daniel Kiv</strong>, Manisha Ganeshan,
-                    Surendra Bhatta, Stephen Palm<br>
+                    Yuekui Yang, <strong>Daniel Kiv</strong>, Surendra Bhatta,
+                    Manisha Ganeshan, Xiaomei Lu, Stephen Palm<br>
                     <em>AGU Fall Meeting</em>, 2022<br>
+                    Journal of Applied Meteorology and Climatology<br>
                     <br>
                   </td>
                 </tr>
                 <tr>
-                  <td style="text-align: center;">book chapters</td>
+                  <td style="text-align: center;">BOOK CHAPTERS</td>
                   <td><strong><br>
                       Machine Learning, Big Data and Spatial tools: A
                       Combination to Reveal Complex Facts That Impact
@@ -106,6 +107,7 @@
                     Robin Kravets<br>
                     1st ACM Workshop on No Power and Low Power
                     Internet-of-Things, 2021<br>
+                    <br>
                   </td>
                 </tr>
                 <tr>
