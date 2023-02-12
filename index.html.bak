@@ -100,8 +100,8 @@
                 <tr>
                   <td style="text-align: center;"><img src="images/smol.png" alt="smol"
                       style="width: 107px; height: 107px;"></td>
-                  <td><br>
-                    <strong>smol: Sensing Soil Moisture using LoRa<br>
+                  <td><strong><br>
+                      smol: Sensing Soil Moisture using LoRa<br>
                       Daniel Kiv</strong>*, Garvita Allabadi*, Berkay Kaplan,
                     Robin Kravets<br>
                     1st ACM Workshop on No Power and Low Power
