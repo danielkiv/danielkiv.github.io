@@ -21,14 +21,7 @@
                     <p>I am a third-year PhD student in Computer Science at the
                       University of Illinois at Urbana-Champaign (UIUC) working
                       with Prof. <a href="https://ggis.illinois.edu/directory/profile/shaowen">Shaowen
-                        Wang</a>, at the <a href="https://iguide.illinois.edu/">NSF
-                        I-GUIDE</a>. I also work with Dr. <a href="https://science.gsfc.nasa.gov/sed/bio/yuekui.yang-1">Yuekui
-                        Yang</a> at the <a href="https://science.gsfc.nasa.gov/earth/climate/">Climate
-                        and Radiation Laboratory</a>, U.S. National Aeronautics
-                      and Space Administration.</p>
-                    <p>At UIUC, I collaborate with these wonderful people:
-                      Chandni Nagda, Matthew Tan (URAP), Andy Sharma, Grace Go
-                      (CS STARS), and folks at AI @ UIUC.</p>
+                        Wang</a>.</p>
                     <p style="text-align:center"> <a href="mailto:dkiv2@illinois.edu">email</a>&nbsp;
                       /&nbsp; <a href="https://scholar.google.com/citations?user=uI_sQzgAAAAJ&amp;hl=en">google
                         scholar </a>/ <a href="https://orcid.org/0000-0002-7624-8163">orcid</a>
@@ -43,6 +36,26 @@
             <br>
             <table style="width:100%;border:0px;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;">
               <tbody>
+                <tr>
+                  <td><br>
+                    <div style="text-align: center;">PREPRINT</div>
+                  </td>
+                  <td><strong><br>
+                      Disparities in Crime and Vulnerability<br>
+                      Daniel Kiv</strong>, Fangzheng Lyu, Shaowen Wang<br>
+                    <em>TBD, 2024<br>
+                      <br>
+                    </em></td>
+                </tr>
+                <tr>
+                  <td style="text-align: center;">PREPRINT</td>
+                  <td><strong><br>
+                      Spatiotemporal Analysis of Urban Complex Systems</strong><br>
+                    Fangzheng Lyu, <strong>Daniel Kiv</strong>, Xinlin Ma,
+                    Shaowen Wang<br>
+                    <em>TBD, 2024</em><br>
+                  </td>
+                </tr>
                 <tr>
                   <td style="text-align: center;">PAPER</td>
                   <td><strong><br>
