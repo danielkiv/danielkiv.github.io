@@ -104,8 +104,7 @@ body,
 td,
 th,
 tr,
-p,
-a {
+p {
   font-family: 'Lato', Verdana, Helvetica, sans-serif;
   font-size: 14px;
   color: var(--text);
@@ -136,13 +135,26 @@ name {
   font-size: 32px;
 }
 
+.intro-name {
+  margin: 0 0 18px 0;
+}
+
 .bio {
   max-width: 50ch;
-  margin: 0 auto;
+  margin: 0 auto 14px auto;
   text-align: left;
   line-height: 1.6;
   text-wrap: pretty;
   hyphens: auto;
+}
+
+.profile-links {
+  margin: 0 0 20px 0;
+}
+
+.site-note {
+  margin: 8px 0 0 0;
+  font-size: 12px;
 }
 
 .one {
