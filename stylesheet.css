@@ -75,7 +75,6 @@
   --bg: #ffffff;
   --text: #111111;
   --link: #1772d0;
-  --link-visited: #5a43c5;
   --link-hover: #f09228;
   --highlight: #ffffd0;
 }
@@ -85,7 +84,6 @@
     --bg: #0f1115;
     --text: #e6e6e6;
     --link: #7cb8ff;
-    --link-visited: #b39dff;
     --link-hover: #ffb25b;
     --highlight: #4f4a19;
   }
@@ -93,19 +91,13 @@
 
 a {
   color: var(--link);
-  text-decoration: underline;
-  text-decoration-thickness: 1px;
-  text-underline-offset: 2px;
-}
-
-a:visited {
-  color: var(--link-visited);
+  text-decoration: none;
 }
 
 a:focus,
 a:hover {
   color: var(--link-hover);
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 body,
