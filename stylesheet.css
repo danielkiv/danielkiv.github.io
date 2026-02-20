@@ -91,13 +91,18 @@
 
 a {
   color: var(--link);
-  text-decoration: none;
+  text-decoration: none !important;
+}
+
+a:visited {
+  color: var(--link);
+  text-decoration: none !important;
 }
 
 a:focus,
 a:hover {
   color: var(--link-hover);
-  text-decoration: none;
+  text-decoration: none !important;
 }
 
 body,
