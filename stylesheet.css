@@ -137,7 +137,7 @@ name {
 }
 
 .bio {
-  max-width: 56ch;
+  max-width: 50ch;
   margin: 0 auto;
   text-align: left;
   line-height: 1.6;
