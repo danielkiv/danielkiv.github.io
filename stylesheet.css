@@ -75,6 +75,7 @@
   --bg: #ffffff;
   --text: #111111;
   --link: #1772d0;
+  --link-visited: #5a43c5;
   --link-hover: #f09228;
   --highlight: #ffffd0;
 }
@@ -84,6 +85,7 @@
     --bg: #0f1115;
     --text: #e6e6e6;
     --link: #7cb8ff;
+    --link-visited: #b39dff;
     --link-hover: #ffb25b;
     --highlight: #4f4a19;
   }
@@ -95,7 +97,7 @@ a {
 }
 
 a:visited {
-  color: var(--link);
+  color: var(--link-visited);
   text-decoration: none !important;
 }
 
