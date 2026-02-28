@@ -117,6 +117,7 @@ p {
   color: var(--text);
 }
 
+html,
 body {
   background-color: var(--bg);
 }
